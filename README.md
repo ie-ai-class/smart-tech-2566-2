@@ -8,10 +8,8 @@
 
 ## Resources
 
-- [Documents](https://o365cmu-my.sharepoint.com/:f:/g/personal/nirand_p_cmu_ac_th/Ehkg2cwhr3NFiesgCBczGHYB-AOrpBOKkd9Rnd7LQgxk8Q?e=itrkuy)
+- [Lectures](https://o365cmu-my.sharepoint.com/:f:/g/personal/nirand_p_cmu_ac_th/Eq2e8KSuj0RAj4VwjWphUlYBAp49EcpGlp9d_Zjz1Ux8ZQ?e=JovEGH)
 
-- [Lectures](https://o365cmu-my.sharepoint.com/:f:/g/personal/nirand_p_cmu_ac_th/EofcXGq6iWlHiGQ7j4IWc7kBmeQmNhBrxLHhnYR51fyeDA?e=LwYhcJ)
+- [Textbooks](https://o365cmu-my.sharepoint.com/:f:/g/personal/nirand_p_cmu_ac_th/ElQk-2TltpZBoMGLLRAIuCMBp0dkVZC7n4dNlBlWanQKPA?e=CgBuSQ)
 
-- [Textbooks](https://o365cmu-my.sharepoint.com/:f:/g/personal/nirand_p_cmu_ac_th/ElQk-2TltpZBoMGLLRAIuCMBp0dkVZC7n4dNlBlWanQKPA?e=0g0ZiA)
-
-- [Codes](https://o365cmu-my.sharepoint.com/:f:/g/personal/nirand_p_cmu_ac_th/Esefj6mgEHhOopXGEBvlWBYBJzdj0mv5kcuNRDqM4nyTpQ?e=bUhmdo)
+- [Codes](https://o365cmu-my.sharepoint.com/:f:/g/personal/nirand_p_cmu_ac_th/EqpTEXrBQidHgNeykWGhHcQBHubQ8PJi9TP1uTISGwV1vQ?e=QDGKYv)
