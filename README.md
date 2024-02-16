@@ -13,3 +13,5 @@
 - [Textbooks](https://o365cmu-my.sharepoint.com/:f:/g/personal/nirand_p_cmu_ac_th/ElQk-2TltpZBoMGLLRAIuCMBp0dkVZC7n4dNlBlWanQKPA?e=CgBuSQ)
 
 - [Codes](https://o365cmu-my.sharepoint.com/:f:/g/personal/nirand_p_cmu_ac_th/EqpTEXrBQidHgNeykWGhHcQBHubQ8PJi9TP1uTISGwV1vQ?e=QDGKYv)
+
+- [Lecture VDO](https://www.youtube.com/playlist?list=PLNGLpHQhvGrv0LftH8uR1DO5V_2Xe2kpG)
